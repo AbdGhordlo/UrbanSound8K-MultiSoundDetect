@@ -30,3 +30,5 @@ Upload a 4-second `.wav` mixture and see the predicted classes!
 - Fatma Özbek
 
 Project for ADA 447 – Introduction to Deep Learning  
+
+[Blog Post Link](https://medium.com/@husseinabdikarim18/0c493ced6e22)
