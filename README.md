@@ -15,6 +15,10 @@ Visit the Hugging Face Space:
 👉 [UrbanSound8K-MultiSoundDetect on HF](https://huggingface.co/spaces/AbdGhordlo/UrbanSound8K-MultiSoundDetect)  
 Upload a 4-second `.wav` mixture and see the predicted classes!
 
+## 🛠 Blog Post
+
+[Blog Post Link](https://medium.com/@husseinabdikarim18/0c493ced6e22)
+
 ## 🛠 Files
 
 - `app.py`: Gradio interface for uploading and classifying audio
@@ -28,7 +32,3 @@ Upload a 4-second `.wav` mixture and see the predicted classes!
 - Abdallah Ghordlo
 - Hussein Abdikarim Hussein
 - Fatma Özbek
-
-Project for ADA 447 – Introduction to Deep Learning  
-
-[Blog Post Link](https://medium.com/@husseinabdikarim18/0c493ced6e22)
