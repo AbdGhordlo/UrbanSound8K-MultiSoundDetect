@@ -15,9 +15,9 @@ Visit the Hugging Face Space:
 👉 [UrbanSound8K-MultiSoundDetect on HF](https://huggingface.co/spaces/AbdGhordlo/UrbanSound8K-MultiSoundDetect)  
 Upload a 4-second `.wav` mixture and see the predicted classes!
 
-## 🛠 Blog Post
+## 📝 Blog Post
 
-[Blog Post Link](https://medium.com/@husseinabdikarim18/0c493ced6e22)
+Read the Blog Post [here](https://medium.com/@husseinabdikarim18/0c493ced6e22)
 
 ## 🛠 Files
 
